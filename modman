@@ -3,5 +3,8 @@
 # author: Ashley
 
 #SMTP Pro
-*	app/code/community/Aschroder/SMTPPro/
-modules/Aschroder_SMTPPro.xml	app/etc/modules/Aschroder_SMTPPro.xml
+code                   	app/code/community/SMTPPro/Wholesaler/
+adminhtml/template		app/design/adminhtml/default/default/template/smtppro
+Aschroder_SMTPPro.xml	app/etc/modules/Aschroder_SMTPPro.xml
+locale								app/locale
+lib									lib
