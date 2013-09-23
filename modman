@@ -3,7 +3,7 @@
 # author: Ashley
 
 #SMTP Pro
-code                   	app/code/community/SMTPPro/Wholesaler/
+code                   	app/code/community/Aschroder/SMTPPro/
 adminhtml/template		app/design/adminhtml/default/default/template/
 Aschroder_SMTPPro.xml	app/etc/modules/Aschroder_SMTPPro.xml
 locale								app/locale
